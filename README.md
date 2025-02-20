@@ -24,12 +24,8 @@ Press 'q' to exit the application.
 
 **Installation**
 
-**_1. Clone this repository_**
 
-git clone (https://github.com/juniorat24/Computer-Vision-Project)
-
-
-**_2. Install Dependencies_**
+**_ Install Dependencies_**
 
 Ensure you have Python installed, then run:
 
