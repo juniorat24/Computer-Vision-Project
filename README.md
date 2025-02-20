@@ -70,7 +70,7 @@ Add face recognition using OpenCV and dlib.
 
 Save detected faces as image files.
 
+
 **Author**
 
-Kwaku Aborah Feel free to connect on LinkedIn: [https://github.com/juniorat24/]
-
+Kwaku Aborah 
